@@ -1,0 +1,539 @@
+{
+  "images": [
+    {
+      "path": "dataset/real/easypaisa/play_01.jpg",
+      "label": "real",
+      "bank": "easypaisa",
+      "source": "google_play"
+    },
+    {
+      "path": "dataset/real/easypaisa/play_05.jpg",
+      "label": "real",
+      "bank": "easypaisa",
+      "source": "google_play"
+    },
+    {
+      "path": "dataset/real/easypaisa/play_06.jpg",
+      "label": "real",
+      "bank": "easypaisa",
+      "source": "google_play"
+    },
+    {
+      "path": "dataset/real/easypaisa/play_07.jpg",
+      "label": "real",
+      "bank": "easypaisa",
+      "source": "google_play"
+    },
+    {
+      "path": "dataset/real/easypaisa/play_08.jpg",
+      "label": "real",
+      "bank": "easypaisa",
+      "source": "google_play"
+    },
+    {
+      "path": "dataset/real/easypaisa/play_09.jpg",
+      "label": "real",
+      "bank": "easypaisa",
+      "source": "google_play"
+    },
+    {
+      "path": "dataset/real/easypaisa/play_10.jpg",
+      "label": "real",
+      "bank": "easypaisa",
+      "source": "google_play"
+    },
+    {
+      "path": "dataset/real/easypaisa/play_11.jpg",
+      "label": "real",
+      "bank": "easypaisa",
+      "source": "google_play"
+    },
+    {
+      "path": "dataset/real/easypaisa/play_12.jpg",
+      "label": "real",
+      "bank": "easypaisa",
+      "source": "google_play"
+    },
+    {
+      "path": "dataset/real/jazzcash/play_01.jpg",
+      "label": "real",
+      "bank": "jazzcash",
+      "source": "google_play"
+    },
+    {
+      "path": "dataset/real/jazzcash/play_03.jpg",
+      "label": "real",
+      "bank": "jazzcash",
+      "source": "google_play"
+    },
+    {
+      "path": "dataset/real/jazzcash/play_04.jpg",
+      "label": "real",
+      "bank": "jazzcash",
+      "source": "google_play"
+    },
+    {
+      "path": "dataset/real/jazzcash/play_05.jpg",
+      "label": "real",
+      "bank": "jazzcash",
+      "source": "google_play"
+    },
+    {
+      "path": "dataset/real/jazzcash/play_06.jpg",
+      "label": "real",
+      "bank": "jazzcash",
+      "source": "google_play"
+    },
+    {
+      "path": "dataset/real/jazzcash/play_07.jpg",
+      "label": "real",
+      "bank": "jazzcash",
+      "source": "google_play"
+    },
+    {
+      "path": "dataset/real/jazzcash/play_08.jpg",
+      "label": "real",
+      "bank": "jazzcash",
+      "source": "google_play"
+    },
+    {
+      "path": "dataset/real/jazzcash/play_09.jpg",
+      "label": "real",
+      "bank": "jazzcash",
+      "source": "google_play"
+    },
+    {
+      "path": "dataset/real/jazzcash/play_10.jpg",
+      "label": "real",
+      "bank": "jazzcash",
+      "source": "google_play"
+    },
+    {
+      "path": "dataset/real/jazzcash/play_11.jpg",
+      "label": "real",
+      "bank": "jazzcash",
+      "source": "google_play"
+    },
+    {
+      "path": "dataset/real/jazzcash/play_12.jpg",
+      "label": "real",
+      "bank": "jazzcash",
+      "source": "google_play"
+    },
+    {
+      "path": "dataset/real/hbl/play_01.jpg",
+      "label": "real",
+      "bank": "hbl",
+      "source": "google_play"
+    },
+    {
+      "path": "dataset/real/hbl/play_03.jpg",
+      "label": "real",
+      "bank": "hbl",
+      "source": "google_play"
+    },
+    {
+      "path": "dataset/real/hbl/play_04.jpg",
+      "label": "real",
+      "bank": "hbl",
+      "source": "google_play"
+    },
+    {
+      "path": "dataset/real/hbl/play_05.jpg",
+      "label": "real",
+      "bank": "hbl",
+      "source": "google_play"
+    },
+    {
+      "path": "dataset/real/hbl/play_06.jpg",
+      "label": "real",
+      "bank": "hbl",
+      "source": "google_play"
+    },
+    {
+      "path": "dataset/real/hbl/play_07.jpg",
+      "label": "real",
+      "bank": "hbl",
+      "source": "google_play"
+    },
+    {
+      "path": "dataset/real/hbl/play_08.jpg",
+      "label": "real",
+      "bank": "hbl",
+      "source": "google_play"
+    },
+    {
+      "path": "dataset/real/hbl/play_09.jpg",
+      "label": "real",
+      "bank": "hbl",
+      "source": "google_play"
+    },
+    {
+      "path": "dataset/real/hbl/play_10.jpg",
+      "label": "real",
+      "bank": "hbl",
+      "source": "google_play"
+    },
+    {
+      "path": "dataset/real/hbl/play_11.jpg",
+      "label": "real",
+      "bank": "hbl",
+      "source": "google_play"
+    },
+    {
+      "path": "dataset/real/nayapay/play_01.jpg",
+      "label": "real",
+      "bank": "nayapay",
+      "source": "google_play"
+    },
+    {
+      "path": "dataset/real/nayapay/play_03.jpg",
+      "label": "real",
+      "bank": "nayapay",
+      "source": "google_play"
+    },
+    {
+      "path": "dataset/real/nayapay/play_04.jpg",
+      "label": "real",
+      "bank": "nayapay",
+      "source": "google_play"
+    },
+    {
+      "path": "dataset/real/nayapay/play_05.jpg",
+      "label": "real",
+      "bank": "nayapay",
+      "source": "google_play"
+    },
+    {
+      "path": "dataset/real/nayapay/play_06.jpg",
+      "label": "real",
+      "bank": "nayapay",
+      "source": "google_play"
+    },
+    {
+      "path": "dataset/real/nayapay/play_07.jpg",
+      "label": "real",
+      "bank": "nayapay",
+      "source": "google_play"
+    },
+    {
+      "path": "dataset/real/nayapay/play_08.jpg",
+      "label": "real",
+      "bank": "nayapay",
+      "source": "google_play"
+    },
+    {
+      "path": "dataset/real/nayapay/play_09.jpg",
+      "label": "real",
+      "bank": "nayapay",
+      "source": "google_play"
+    },
+    {
+      "path": "dataset/real/nayapay/play_10.jpg",
+      "label": "real",
+      "bank": "nayapay",
+      "source": "google_play"
+    },
+    {
+      "path": "dataset/real/nayapay/play_11.jpg",
+      "label": "real",
+      "bank": "nayapay",
+      "source": "google_play"
+    },
+    {
+      "path": "dataset/real/nayapay/play_12.jpg",
+      "label": "real",
+      "bank": "nayapay",
+      "source": "google_play"
+    },
+    {
+      "path": "dataset/fake/generated/easypaisa_rgba.png",
+      "label": "fake",
+      "bank": "easypaisa",
+      "source": "synthetic_rgba"
+    },
+    {
+      "path": "dataset/fake/generated/easypaisa_lowres.png",
+      "label": "fake",
+      "bank": "easypaisa",
+      "source": "synthetic_lowres"
+    },
+    {
+      "path": "dataset/fake/generated/easypaisa_wrong_colour.jpg",
+      "label": "fake",
+      "bank": "easypaisa",
+      "source": "synthetic_wrong_colour"
+    },
+    {
+      "path": "dataset/fake/generated/easypaisa_ela_injected.jpg",
+      "label": "fake",
+      "bank": "easypaisa",
+      "source": "synthetic_ela_injected"
+    },
+    {
+      "path": "dataset/fake/generated/easypaisa_flat_colour.png",
+      "label": "fake",
+      "bank": "easypaisa",
+      "source": "synthetic_flat_colour"
+    },
+    {
+      "path": "dataset/fake/generated/easypaisa_wrong_aspect.jpg",
+      "label": "fake",
+      "bank": "easypaisa",
+      "source": "synthetic_wrong_aspect"
+    },
+    {
+      "path": "dataset/fake/generated/jazzcash_rgba.png",
+      "label": "fake",
+      "bank": "jazzcash",
+      "source": "synthetic_rgba"
+    },
+    {
+      "path": "dataset/fake/generated/jazzcash_lowres.png",
+      "label": "fake",
+      "bank": "jazzcash",
+      "source": "synthetic_lowres"
+    },
+    {
+      "path": "dataset/fake/generated/jazzcash_wrong_colour.jpg",
+      "label": "fake",
+      "bank": "jazzcash",
+      "source": "synthetic_wrong_colour"
+    },
+    {
+      "path": "dataset/fake/generated/jazzcash_ela_injected.jpg",
+      "label": "fake",
+      "bank": "jazzcash",
+      "source": "synthetic_ela_injected"
+    },
+    {
+      "path": "dataset/fake/generated/jazzcash_flat_colour.png",
+      "label": "fake",
+      "bank": "jazzcash",
+      "source": "synthetic_flat_colour"
+    },
+    {
+      "path": "dataset/fake/generated/jazzcash_wrong_aspect.jpg",
+      "label": "fake",
+      "bank": "jazzcash",
+      "source": "synthetic_wrong_aspect"
+    },
+    {
+      "path": "dataset/fake/generated/hbl_rgba.png",
+      "label": "fake",
+      "bank": "hbl",
+      "source": "synthetic_rgba"
+    },
+    {
+      "path": "dataset/fake/generated/hbl_lowres.png",
+      "label": "fake",
+      "bank": "hbl",
+      "source": "synthetic_lowres"
+    },
+    {
+      "path": "dataset/fake/generated/hbl_wrong_colour.jpg",
+      "label": "fake",
+      "bank": "hbl",
+      "source": "synthetic_wrong_colour"
+    },
+    {
+      "path": "dataset/fake/generated/hbl_ela_injected.jpg",
+      "label": "fake",
+      "bank": "hbl",
+      "source": "synthetic_ela_injected"
+    },
+    {
+      "path": "dataset/fake/generated/hbl_flat_colour.png",
+      "label": "fake",
+      "bank": "hbl",
+      "source": "synthetic_flat_colour"
+    },
+    {
+      "path": "dataset/fake/generated/hbl_wrong_aspect.jpg",
+      "label": "fake",
+      "bank": "hbl",
+      "source": "synthetic_wrong_aspect"
+    },
+    {
+      "path": "dataset/fake/generated/ubl_rgba.png",
+      "label": "fake",
+      "bank": "ubl",
+      "source": "synthetic_rgba"
+    },
+    {
+      "path": "dataset/fake/generated/ubl_lowres.png",
+      "label": "fake",
+      "bank": "ubl",
+      "source": "synthetic_lowres"
+    },
+    {
+      "path": "dataset/fake/generated/ubl_wrong_colour.jpg",
+      "label": "fake",
+      "bank": "ubl",
+      "source": "synthetic_wrong_colour"
+    },
+    {
+      "path": "dataset/fake/generated/ubl_ela_injected.jpg",
+      "label": "fake",
+      "bank": "ubl",
+      "source": "synthetic_ela_injected"
+    },
+    {
+      "path": "dataset/fake/generated/ubl_flat_colour.png",
+      "label": "fake",
+      "bank": "ubl",
+      "source": "synthetic_flat_colour"
+    },
+    {
+      "path": "dataset/fake/generated/ubl_wrong_aspect.jpg",
+      "label": "fake",
+      "bank": "ubl",
+      "source": "synthetic_wrong_aspect"
+    },
+    {
+      "path": "dataset/fake/generated/meezan_rgba.png",
+      "label": "fake",
+      "bank": "meezan",
+      "source": "synthetic_rgba"
+    },
+    {
+      "path": "dataset/fake/generated/meezan_lowres.png",
+      "label": "fake",
+      "bank": "meezan",
+      "source": "synthetic_lowres"
+    },
+    {
+      "path": "dataset/fake/generated/meezan_wrong_colour.jpg",
+      "label": "fake",
+      "bank": "meezan",
+      "source": "synthetic_wrong_colour"
+    },
+    {
+      "path": "dataset/fake/generated/meezan_ela_injected.jpg",
+      "label": "fake",
+      "bank": "meezan",
+      "source": "synthetic_ela_injected"
+    },
+    {
+      "path": "dataset/fake/generated/meezan_flat_colour.png",
+      "label": "fake",
+      "bank": "meezan",
+      "source": "synthetic_flat_colour"
+    },
+    {
+      "path": "dataset/fake/generated/meezan_wrong_aspect.jpg",
+      "label": "fake",
+      "bank": "meezan",
+      "source": "synthetic_wrong_aspect"
+    },
+    {
+      "path": "dataset/fake/generated/sadapay_rgba.png",
+      "label": "fake",
+      "bank": "sadapay",
+      "source": "synthetic_rgba"
+    },
+    {
+      "path": "dataset/fake/generated/sadapay_lowres.png",
+      "label": "fake",
+      "bank": "sadapay",
+      "source": "synthetic_lowres"
+    },
+    {
+      "path": "dataset/fake/generated/sadapay_wrong_colour.jpg",
+      "label": "fake",
+      "bank": "sadapay",
+      "source": "synthetic_wrong_colour"
+    },
+    {
+      "path": "dataset/fake/generated/sadapay_ela_injected.jpg",
+      "label": "fake",
+      "bank": "sadapay",
+      "source": "synthetic_ela_injected"
+    },
+    {
+      "path": "dataset/fake/generated/sadapay_flat_colour.png",
+      "label": "fake",
+      "bank": "sadapay",
+      "source": "synthetic_flat_colour"
+    },
+    {
+      "path": "dataset/fake/generated/sadapay_wrong_aspect.jpg",
+      "label": "fake",
+      "bank": "sadapay",
+      "source": "synthetic_wrong_aspect"
+    },
+    {
+      "path": "dataset/fake/generated/nayapay_rgba.png",
+      "label": "fake",
+      "bank": "nayapay",
+      "source": "synthetic_rgba"
+    },
+    {
+      "path": "dataset/fake/generated/nayapay_lowres.png",
+      "label": "fake",
+      "bank": "nayapay",
+      "source": "synthetic_lowres"
+    },
+    {
+      "path": "dataset/fake/generated/nayapay_wrong_colour.jpg",
+      "label": "fake",
+      "bank": "nayapay",
+      "source": "synthetic_wrong_colour"
+    },
+    {
+      "path": "dataset/fake/generated/nayapay_ela_injected.jpg",
+      "label": "fake",
+      "bank": "nayapay",
+      "source": "synthetic_ela_injected"
+    },
+    {
+      "path": "dataset/fake/generated/nayapay_flat_colour.png",
+      "label": "fake",
+      "bank": "nayapay",
+      "source": "synthetic_flat_colour"
+    },
+    {
+      "path": "dataset/fake/generated/nayapay_wrong_aspect.jpg",
+      "label": "fake",
+      "bank": "nayapay",
+      "source": "synthetic_wrong_aspect"
+    },
+    {
+      "path": "dataset/fake/generated/mcblite_rgba.png",
+      "label": "fake",
+      "bank": "mcblite",
+      "source": "synthetic_rgba"
+    },
+    {
+      "path": "dataset/fake/generated/mcblite_lowres.png",
+      "label": "fake",
+      "bank": "mcblite",
+      "source": "synthetic_lowres"
+    },
+    {
+      "path": "dataset/fake/generated/mcblite_wrong_colour.jpg",
+      "label": "fake",
+      "bank": "mcblite",
+      "source": "synthetic_wrong_colour"
+    },
+    {
+      "path": "dataset/fake/generated/mcblite_ela_injected.jpg",
+      "label": "fake",
+      "bank": "mcblite",
+      "source": "synthetic_ela_injected"
+    },
+    {
+      "path": "dataset/fake/generated/mcblite_flat_colour.png",
+      "label": "fake",
+      "bank": "mcblite",
+      "source": "synthetic_flat_colour"
+    },
+    {
+      "path": "dataset/fake/generated/mcblite_wrong_aspect.jpg",
+      "label": "fake",
+      "bank": "mcblite",
+      "source": "synthetic_wrong_aspect"
+    }
+  ],
+  "total": 89
+}
